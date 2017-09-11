@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BasicUIControls</string>
+    <string name="audi_text">Audi</string>
+    <string name="bmw_text">BMW</string>
+    <string name="renault_text">Renault</string>
+    <string name="skoda_text">Skoda</string>
+    <string name="volvo_text">Volvo</string>
+</resources>
